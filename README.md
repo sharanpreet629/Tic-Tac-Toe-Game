@@ -1,6 +1,6 @@
 <h1>Tic-Tac-Toe Game</h1>
   
-  Tic-Tac-Toe Game OR X's and 0's Game is more easiest two-player game. So only two players can play at a time.One player plays with X and the other player plays with O. In this game we have a board consisting of a 3X3 grid. The number of grids may be increased.This Board is printed using dictionaries.
+  Tic-Tac-Toe Game OR X's and 0's Game is most easiest two-player game. So only two players can play at a time.One player plays with X and the other player plays with O. In this game we have a board consisting of a 3X3 grid. The number of grids may be increased.This Board is printed using dictionaries.
   
  <h2>Game Rules</h2> 
 1.The first player plays with "X". So you can decide who wants to go with "X" and who wants to go with "O".
